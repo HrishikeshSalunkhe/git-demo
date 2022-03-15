@@ -2,10 +2,10 @@
 
 ## Git For Beginners
 
-### Git is Free and Open source Distrubuted Version Control System.
+### Git is Free and Open source Distrubuted Version Control System. 
 
 ### Git Commands:
-  #### 1. git clone
+  #### 1. git clone 
   #### 2. git add
   #### 3. git commit
   #### 4. git status
