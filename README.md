@@ -12,4 +12,6 @@
   #### 5. git push
   #### 6. git pull
   #### 7. git branch
+  #### 7. git  checkout
+  #### 8. git checkout -b <new-branch>
   
